@@ -5,7 +5,6 @@ import datetime as dt
 
 
 import streamlit as st
-import matplotlib.pyplot as plt
 import seaborn as sns
 
 from sklearn.preprocessing import StandardScaler
